@@ -1,0 +1,13 @@
+C:\Users\Not_R\source\repos\Cinema FileHandling Console\Cinema FileHandling Console\obj\Debug\netcoreapp3.1\Cinema FileHandling Console.csprojAssemblyReference.cache
+C:\Users\Not_R\source\repos\Cinema FileHandling Console\Cinema FileHandling Console\obj\Debug\netcoreapp3.1\Cinema FileHandling Console.AssemblyInfoInputs.cache
+C:\Users\Not_R\source\repos\Cinema FileHandling Console\Cinema FileHandling Console\obj\Debug\netcoreapp3.1\Cinema FileHandling Console.AssemblyInfo.cs
+C:\Users\Not_R\source\repos\Cinema FileHandling Console\Cinema FileHandling Console\obj\Debug\netcoreapp3.1\Cinema FileHandling Console.csproj.CoreCompileInputs.cache
+C:\Users\Not_R\source\repos\Cinema FileHandling Console\Cinema FileHandling Console\bin\Debug\netcoreapp3.1\Cinema FileHandling Console.exe
+C:\Users\Not_R\source\repos\Cinema FileHandling Console\Cinema FileHandling Console\bin\Debug\netcoreapp3.1\Cinema FileHandling Console.deps.json
+C:\Users\Not_R\source\repos\Cinema FileHandling Console\Cinema FileHandling Console\bin\Debug\netcoreapp3.1\Cinema FileHandling Console.runtimeconfig.json
+C:\Users\Not_R\source\repos\Cinema FileHandling Console\Cinema FileHandling Console\bin\Debug\netcoreapp3.1\Cinema FileHandling Console.runtimeconfig.dev.json
+C:\Users\Not_R\source\repos\Cinema FileHandling Console\Cinema FileHandling Console\bin\Debug\netcoreapp3.1\Cinema FileHandling Console.dll
+C:\Users\Not_R\source\repos\Cinema FileHandling Console\Cinema FileHandling Console\bin\Debug\netcoreapp3.1\Cinema FileHandling Console.pdb
+C:\Users\Not_R\source\repos\Cinema FileHandling Console\Cinema FileHandling Console\obj\Debug\netcoreapp3.1\Cinema FileHandling Console.dll
+C:\Users\Not_R\source\repos\Cinema FileHandling Console\Cinema FileHandling Console\obj\Debug\netcoreapp3.1\Cinema FileHandling Console.pdb
+C:\Users\Not_R\source\repos\Cinema FileHandling Console\Cinema FileHandling Console\obj\Debug\netcoreapp3.1\Cinema FileHandling Console.genruntimeconfig.cache
